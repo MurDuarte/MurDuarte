@@ -1,4 +1,5 @@
-### Hi!! I`m Murilo Duarte and I have been Data Scienc and Analytics. 👋
+### Hi, everyone! 
+I`m Murilo Duarte and I have been Data Scienc and Analytics. 👋
 
 - 🔭 I’m currently working with data at a financial institution.
 - 🌱 I’m currently learning Data Science and R.
