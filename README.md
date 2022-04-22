@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/murduarte">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=murduarte&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murduarte&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=murduarte&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murduarte&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mur-Js" height="30" width="40" 
