@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 I’m currently working with data at a financial institution.
-- 🌱 I’m currently learning Data Science and R.
+- 🏢 I’m currently working with data at a financial institution.
+- 🌱 I’m currently learning all about Data Science and R.
 - ⚒️ I’m looking to collaborate on projects to increase my knowledge.
 - 🤔 I’m looking for help with job opportunities in Data Science.
 - 💬 Ask me about anything.
